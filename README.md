@@ -16,12 +16,17 @@ This project analyzes the Telco Customer Churn dataset and builds an end-to-end 
 
 ---
 
-## 📂 Dataset Description
+## 📂 Dataset Overview
 
-- **Source:** [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
-- **Features:** Customer demographics, account info, services, and churn status.
-- **Goal:** Predict whether a customer will leave the company (`Churn`).
+The dataset comes from a fictional telco company and contains **7043 customer records** with a rich set of features:
 
+- **Customer demographics:** Age, gender, location, senior citizen status, dependents, etc.
+- **Account information:** Tenure, contract type, payment method, monthly/total charges, etc.
+- **Services signed up for:** Phone service, internet plans, add-ons like security, backup, device protection, streaming, etc.
+- **Churn details:** Churn label/value, churn reason, lifetime value, and predictive churn score.
+
+**Dataset link:**  
+[Telco Customer Churn IBM Dataset on Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data)
 ---
 
 ## 📝 Approach & Workflow
